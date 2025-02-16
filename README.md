@@ -9,7 +9,7 @@
 - **Flutter** (Cross-platform mobile development)  
 - **Dart** (Programming language)  
 - **Firebase** (Authentication, Database, Notifications)  
-- **Chart.js / D3.js** (For data exchange)  
+- **REST API** (For data exchange)
 
 ---
 
